@@ -3,7 +3,7 @@ O Projeto Super-Heróis API é uma plataforma que reúne informações fascinant
 
 
 # 🎯Objetivo 
-O objetivo do projeto, que é permitir que o usuário selecione dois super-heróis para uma batalha, onde a soma de seus superpoderes determinará o vencedor. Além disso, o usuário poderá filtrar seu super-herói favorito pelo nome.
+O objetivo do projeto é permitir que o usuário selecione dois super-heróis para uma batalha, onde a soma de seus superpoderes determinará o vencedor. Além disso, o usuário poderá filtrar seu super-herói favorito pelo nome e também verificá-los em ordem crescente e decrescente.
 
 # 📱Layout 
 
