@@ -3,7 +3,7 @@ O Projeto Super-Heróis API é uma plataforma que reúne informações fascinant
 
 
 # 🎯Objetivo 
-o objetivo do projeto, que é permitir que o usuário selecione dois super-heróis para uma batalha, onde a soma de seus superpoderes determinará o vencedor. Além disso, o usuário poderá filtrar seu super-herói favorito pelo nome.
+O objetivo do projeto, que é permitir que o usuário selecione dois super-heróis para uma batalha, onde a soma de seus superpoderes determinará o vencedor. Além disso, o usuário poderá filtrar seu super-herói favorito pelo nome.
 
 # 📱Layout 
 
@@ -62,7 +62,8 @@ Material UI
 ### Instalando
 ```bash
 # Clone repositório
-git clone https: https://github.com/Adrianaramss/Projeto---azapfy.git
+git clone https: https://github.com/Adrianaramss/Projeto-Superherois.git
+
 # Instalando dependências
 npm install
 
