@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# 📖 Sobre o projeto
+O Projeto Super-Heróis API é uma plataforma que reúne informações fascinantes sobre super-heróis de todo o universo. Nesta API, você pode acessar dados detalhados sobre os nomes dos super-heróis e os incríveis valores de seus superpoderes. Se você já se perguntou qual super-herói possui a força sobre-humana mais impressionante ou quem tem a velocidade mais relâmpago, esta API é a resposta para todas as suas perguntas sobre super-heróis.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# 🎯Objetivo 
+o objetivo do projeto, que é permitir que o usuário selecione dois super-heróis para uma batalha, onde a soma de seus superpoderes determinará o vencedor. Além disso, o usuário poderá filtrar seu super-herói favorito pelo nome.
 
-In the project directory, you can run:
+# 📱Layout 
 
-### `npm start`
+- Tela de todos os Super-Heróis
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div align="left"   > 
+  <img height="500" src="https://github.com/Adrianaramss/Projeto---azapfy/assets/111310311/517f6d5d-88b7-4d03-aae9-9fa57c947e67"/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+  </div>
+  </br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - Tela de Batalha
+  
+<div align="left" > 
+<img height="500" src="https://github.com/Adrianaramss/Projeto---azapfy/assets/111310311/7d426f3d-2c31-4236-873a-01def2054e09"/>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  </div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 🚀 Funcionalidades
 
-### `npm run eject`
+✅ Selecionar Super-Heróis para Batalha: Escolha dois super-heróis para uma emocionante batalha de superpoderes. <br>
+✅ Batalha Épica: Calcule a soma dos valores de superpoderes dos super-heróis selecionados para determinar o vencedor. <br>
+✅ Filtrar Super-Heróis por Nome: Encontre e escolha seu super-herói favorito pelo nome. <br>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# 💻 Tecnologias utilizadas no Projeto
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- JavaScript
+- css
+- html
+- React
+- hooks (useState e useEffect)
+- styled-components
+- integração de API com Axios
+- Chakara UI
+- Material UI
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Bibliotecas Utilizadas
 
-## Learn More
+```bash
+styled-components
+axios
+Chakara UI
+Material UI
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 🔗 Deploy projeto
+- Deploy Vercel: [Clique aqui!](https://projeto-superherois-e9ax1d5i9-adrianaramss.vercel.app/)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# 🛰Executar o projeto localmente
+### Instalando
+```bash
+# Clone repositório
+git clone https: https://github.com/Adrianaramss/Projeto---azapfy.git
+# Instalando dependências
+npm install
 
-### Analyzing the Bundle Size
+# executando o projeto
+npm run start
+```
+# 📫 Contato
+E-mail - adrianascosta9@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-ramss/)
