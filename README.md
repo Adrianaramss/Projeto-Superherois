@@ -10,16 +10,17 @@ O objetivo do projeto, que é permitir que o usuário selecione dois super-heró
 - Tela de todos os Super-Heróis
 
 <div align="left"   > 
-  <img height="500" src="https://github.com/Adrianaramss/Projeto---azapfy/assets/111310311/517f6d5d-88b7-4d03-aae9-9fa57c947e67"/>
+  <img height="500" src="https://github.com/Adrianaramss/Projeto-Superherois/assets/111310311/942390d0-e5ab-4d60-8e7a-132bfdc86e75"/>
 
 
   </div>
   </br>
 
+
   - Tela de Batalha
   
 <div align="left" > 
-<img height="500" src="https://github.com/Adrianaramss/Projeto---azapfy/assets/111310311/7d426f3d-2c31-4236-873a-01def2054e09"/>
+<img height="500" src="https://github.com/Adrianaramss/Projeto-Superherois/assets/111310311/999cfeb4-7c1f-4080-9d36-dc18f50c1233"/>
 
 
   </div>
