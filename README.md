@@ -31,7 +31,7 @@ O objetivo do projeto é permitir que o usuário selecione dois super-heróis pa
 ✅ Selecionar Super-Heróis para Batalha: Escolha dois super-heróis para uma emocionante batalha de superpoderes. <br>
 ✅ Batalha Épica: Calcule a soma dos valores de superpoderes dos super-heróis selecionados para determinar o vencedor. <br>
 ✅ Filtrar Super-Heróis por Nome: Encontre e escolha seu super-herói favorito pelo nome. <br>
-
+✅ Ordenar por ordem crescente e decrescente.
 
 # 💻 Tecnologias utilizadas no Projeto
 
