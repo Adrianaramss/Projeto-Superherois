@@ -62,7 +62,7 @@ Material UI
 ### Instalando
 ```bash
 # Clone repositório
-git clone https: https://github.com/Adrianaramss/Projeto-Superherois.git
+git clone https://github.com/Adrianaramss/Projeto-Superherois.git
 
 # Instalando dependências
 npm install
