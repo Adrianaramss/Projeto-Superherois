@@ -16,7 +16,7 @@ function HomePage() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get("http://homologacao3.azapfy.com.br/api/ps/metahumans");
+        const response = await axios.get("https://cors-anywhere.herokuapp.com/http://homologacao3.azapfy.com.br/api/ps/metahumans");
         setSuperheroes(response.data);
       } catch (error) {
         console.error("Error fetching superheroes:", error);
